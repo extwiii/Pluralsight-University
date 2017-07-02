@@ -1,2 +1,3 @@
-# React-Reusable-Components
-Creating Reusable react Components
+# Pluralsight University
+
+How to become full-stack developer with Pluralsight?
