@@ -2,6 +2,7 @@
 
 What Have I Learned from Pluralsight? (Newest to Oldest)
 
+#### COURSE NAME - VIEW TIME - DURATION - COMPLETION% - LAST VIEWED
 * Implementing DevOps in the Real World	4m	2h 53m	
 3%	Aug 19, 2017	
 ...
