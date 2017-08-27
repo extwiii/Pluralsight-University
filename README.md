@@ -138,19 +138,19 @@ What Have I Learned from Pluralsight? (Newest to Oldest)
 * AWS Developer: The Big Picture	1h 34m	1h 34m	
 100%	Jun 08, 2017	
 ...
-	Building Applications with React and Flux	5h 8m	5h 8m	
+* Building Applications with React and Flux	5h 8m	5h 8m	
 100%	Jun 06, 2017	
 ...
-AWS Developer Fundamentals	3m	4h 26m	
+* AWS Developer Fundamentals	3m	4h 26m	
 1%	Jun 05, 2017	
 ...
-AWS Certified DevOps Engineer: Continuous Delivery and Automation	18m	4h 16m	
+* AWS Certified DevOps Engineer: Continuous Delivery and Automation	18m	4h 16m	
 7%	Jun 05, 2017	
 ...
-	React Fundamentals	2h 44m	2h 44m	
+* React Fundamentals	2h 44m	2h 44m	
 100%	Jun 03, 2017	
 ...
-	React.js: Getting Started	1h 44m	1h 44m	
+* React.js: Getting Started	1h 44m	1h 44m	
 100%	Jun 03, 2017	
 ...
 
