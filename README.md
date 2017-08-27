@@ -2,7 +2,7 @@
 
 What Have I Learned from Pluralsight? (Newest to Oldest)
 
-#### COURSE NAME - VIEW TIME - DURATION - COMPLETION% - LAST VIEWED
+#### *** COURSE NAME - VIEW TIME - DURATION - COMPLETION% - LAST VIEWED ***
 * Implementing DevOps in the Real World	4m	2h 53m	
 3%	Aug 19, 2017	
 ...
@@ -27,34 +27,34 @@ What Have I Learned from Pluralsight? (Newest to Oldest)
 Hands-on Ansible	6m	3h 53m	
 3%	Jul 30, 2017	
 ...
-	Getting Started With Jenkins Continuous Integration	2h 38m	2h 38m	
+* Getting Started With Jenkins Continuous Integration	2h 38m	2h 38m	
 100%	Jul 30, 2017	
 ...
-	Deep Dive: Domain Name Service (DNS)	2h 7m	2h 7m	
+* Deep Dive: Domain Name Service (DNS)	2h 7m	2h 7m	
 100%	Jul 30, 2017	
 ...
-	Getting Started with Jenkins 2	3h 36m	3h 36m	
+* Getting Started with Jenkins 2	3h 36m	3h 36m	
 100%	Jul 30, 2017	
 ...
-	Containers and Images: The Big Picture	3h 9m	3h 9m	
+* Containers and Images: The Big Picture	3h 9m	3h 9m	
 100%	Jul 27, 2017	
 ...
-	Integrating Docker with DevOps Automated Workflows	1h 3m	1h 3m	
+* Integrating Docker with DevOps Automated Workflows	1h 3m	1h 3m	
 100%	Jul 26, 2017	
 ...
-	Docker Swarm: Native Docker Clustering	2h 22m	2h 22m	
+* Docker Swarm: Native Docker Clustering	2h 22m	2h 22m	
 100%	Jul 25, 2017	
 ...
-	Docker Deep Dive	5h 38m	5h 38m	
+* Docker Deep Dive	5h 38m	5h 38m	
 100%	Jul 24, 2017	
 ...
-	Getting Started with Docker	2h 12m	2h 12m	
+* Getting Started with Docker	2h 12m	2h 12m	
 100%	Jul 23, 2017	
 ...
-	Docker and Containers: The Big Picture	1h 47m	1h 47m	
+* Docker and Containers: The Big Picture	1h 47m	1h 47m	
 100%	Jul 19, 2017	
 ...
-	Getting Started with Docker Datacenter	1h 35m	1h 35m	
+* Getting Started with Docker Datacenter	1h 35m	1h 35m	
 100%	Jul 18, 2017	
 ...
 	Managing Docker Images	1h 6m	1h 6m	
