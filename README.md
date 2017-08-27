@@ -66,46 +66,46 @@ What Have I Learned from Pluralsight? (Newest to Oldest)
 * Testing JavaScript for Node.js with Mocha	2h 28m	2h 28m	
 100%	Jul 17, 2017	
 ...
-	Blockchain Fundamentals	2h 25m	2h 25m	
+* Blockchain Fundamentals	2h 25m	2h 25m	
 100%	Jul 16, 2017	
 ...
-	Build iOS Apps with React Native	1h 59m	1h 59m	
+* Build iOS Apps with React Native	1h 59m	1h 59m	
 100%	Jul 15, 2017	
 ...
-	Build Cross Platform React Native Apps with Exponent and Redux	3h 22m	3h 22m	
+* Build Cross Platform React Native Apps with Exponent and Redux	3h 22m	3h 22m	
 100%	Jul 13, 2017	
 ...
-	Creating Reusable React Components	6h 20m	6h 21m	
+* Creating Reusable React Components	6h 20m	6h 21m	
 100%	Jul 13, 2017	
 ...
-	Building a Full-Stack App with React and Express	3h 24m	3h 24m	
+* Building a Full-Stack App with React and Express	3h 24m	3h 24m	
 100%	Jul 12, 2017	
 ...
-	Integrating Angular with Node.js RESTful Services	4h 17m	4h 17m	
+* Integrating Angular with Node.js RESTful Services	4h 17m	4h 17m	
 100%	Jun 24, 2017	
 ...
-	User Experience: The Big Picture	2h 14m	2h 14m	
+* User Experience: The Big Picture	2h 14m	2h 14m	
 100%	Jun 21, 2017	
 ...
-	UX Fundamentals	1h 5m	1h 5m	
+* UX Fundamentals	1h 5m	1h 5m	
 100%	Jun 21, 2017	
 ...
-Advanced Node.js	19m	3h 45m	
+* Advanced Node.js	19m	3h 45m	
 9%	Jun 21, 2017	
 ...
-	Node Application Patterns	2h 30m	2h 30m	
+* Node Application Patterns	2h 30m	2h 30m	
 100%	Jun 21, 2017	
 ...
-	Node.js Testing Strategies	2h 39m	2h 39m	
+* Node.js Testing Strategies	2h 39m	2h 39m	
 100%	Jun 21, 2017	
 ...
-	RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
+* RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
 100%	Jun 21, 2017	
 ...
-	Building Web Applications with Node.js and Express 4.0	4h 43m	4h 43m	
+* Building Web Applications with Node.js and Express 4.0	4h 43m	4h 43m	
 100%	Jun 21, 2017	
 ...
-	Introduction to Node.js	2h 48m	2h 48m	
+* Introduction to Node.js	2h 48m	2h 48m	
 100%	Jun 21, 2017	
 ...
 	Building a JavaScript Development Environment	5h 19m	5h 19m	
