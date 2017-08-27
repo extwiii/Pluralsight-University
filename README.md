@@ -2,22 +2,22 @@
 
 What Have I Learned from Pluralsight? (Newest to Oldest)
 
-Implementing DevOps in the Real World	4m	2h 53m	
+* Implementing DevOps in the Real World	4m	2h 53m	
 3%	Aug 19, 2017	
 ...
-	Docker Networking	1h 49m	1h 49m	
+* Docker Networking	1h 49m	1h 49m	
 100%	Aug 19, 2017	
 ...
-	Advanced Redux	2h 55m	2h 55m	
+* Advanced Redux	2h 55m	2h 55m	
 100%	Aug 19, 2017	
 ...
-	Advanced React.js	3h 54m	3h 54m	
+* Advanced React.js	3h 54m	3h 54m	
 100%	Aug 15, 2017	
 ...
-	Rapid ES6 Training	4h 16m	4h 16m	
+* Rapid ES6 Training	4h 16m	4h 16m	
 100%	Aug 13, 2017	
 ...
-	Getting Started with Kubernetes	2h 53m	2h 53m	
+* Getting Started with Kubernetes	2h 53m	2h 53m	
 100%	Aug 12, 2017	
 ...
 	Continuous Delivery Using Docker And Ansible	7h 13m	7h 13m	
