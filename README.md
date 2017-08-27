@@ -21,10 +21,10 @@ What Have I Learned from Pluralsight? (Newest to Oldest)
 * Getting Started with Kubernetes	2h 53m	2h 53m	
 100%	Aug 12, 2017	
 ...
-	Continuous Delivery Using Docker And Ansible	7h 13m	7h 13m	
+* Continuous Delivery Using Docker And Ansible	7h 13m	7h 13m	
 100%	Aug 06, 2017	
 ...
-Hands-on Ansible	6m	3h 53m	
+* Hands-on Ansible	6m	3h 53m	
 3%	Jul 30, 2017	
 ...
 * Getting Started With Jenkins Continuous Integration	2h 38m	2h 38m	
@@ -57,13 +57,13 @@ Hands-on Ansible	6m	3h 53m
 * Getting Started with Docker Datacenter	1h 35m	1h 35m	
 100%	Jul 18, 2017	
 ...
-	Managing Docker Images	1h 6m	1h 6m	
+* Managing Docker Images	1h 6m	1h 6m	
 100%	Jul 17, 2017	
 ...
-	Continuous Integration and Continuous Delivery: The Big Picture	59m	59m	
+* Continuous Integration and Continuous Delivery: The Big Picture	59m	59m	
 100%	Jul 17, 2017	
 ...
-	Testing JavaScript for Node.js with Mocha	2h 28m	2h 28m	
+* Testing JavaScript for Node.js with Mocha	2h 28m	2h 28m	
 100%	Jul 17, 2017	
 ...
 	Blockchain Fundamentals	2h 25m	2h 25m	
