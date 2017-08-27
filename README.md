@@ -108,34 +108,34 @@ What Have I Learned from Pluralsight? (Newest to Oldest)
 * Introduction to Node.js	2h 48m	2h 48m	
 100%	Jun 21, 2017	
 ...
-	Building a JavaScript Development Environment	5h 19m	5h 19m	
+* Building a JavaScript Development Environment	5h 19m	5h 19m	
 100%	Jun 20, 2017	
 ...
-	NPM Playbook	58m	58m	
+* NPM Playbook	58m	58m	
 100%	Jun 20, 2017	
 ...
-	Learning To Program - Part 1: Getting Started	3h 12m	3h 12m	
+* Learning To Program - Part 1: Getting Started	3h 12m	3h 12m	
 100%	Jun 20, 2017	
 ...
-	Mastering React Testing with Jest	1h 57m	1h 57m	
+* Mastering React Testing with Jest	1h 57m	1h 57m	
 100%	Jun 19, 2017	
 ...
-	Styling React Components	1h 29m	1h 29m	
+* Styling React Components	1h 29m	1h 29m	
 100%	Jun 19, 2017	
 ...
-	Building Scalable React Apps	3h 48m	3h 48m	
+* Building Scalable React Apps	3h 48m	3h 48m	
 100%	Jun 19, 2017	
 ...
-	Building Applications with React and Redux in ES6	6h 13m	6h 13m	
+* Building Applications with React and Redux in ES6	6h 13m	6h 13m	
 100%	Jun 17, 2017	
 ...
-AWS Developer: Getting Started	2h 34m	4h 10m	
+* AWS Developer: Getting Started	2h 34m	4h 10m	
 61%	Jun 11, 2017	
 ...
-Cloud Computing: The Big Picture	1m	1h 4m	
+* Cloud Computing: The Big Picture	1m	1h 4m	
 3%	Jun 08, 2017	
 ...
-	AWS Developer: The Big Picture	1h 34m	1h 34m	
+* AWS Developer: The Big Picture	1h 34m	1h 34m	
 100%	Jun 08, 2017	
 ...
 	Building Applications with React and Flux	5h 8m	5h 8m	
