@@ -98,10 +98,10 @@ What Have I Learned from Pluralsight? (New to Old)
 * Build iOS Apps with React Native	1h 59m	1h 59m	
 100%	Jul 15, 2017	
 ...
-* Build Cross Platform React Native Apps with Exponent and Redux	3h 22m	3h 22m	
+> Build Cross Platform React Native Apps with Exponent and Redux	3h 22m	3h 22m	
 100%	Jul 13, 2017	
 ...
-* Creating Reusable React Components	6h 20m	6h 21m	
+> Creating Reusable React Components	6h 20m	6h 21m	
 100%	Jul 13, 2017	
 ...
 * Building a Full-Stack App with React and Express	3h 24m	3h 24m	
@@ -116,7 +116,7 @@ What Have I Learned from Pluralsight? (New to Old)
 * UX Fundamentals	1h 5m	1h 5m	
 100%	Jun 21, 2017	
 ...
-* Advanced Node.js	19m	3h 45m	
+> Advanced Node.js	19m	3h 45m	
 9%	Jun 21, 2017	
 ...
 * Node Application Patterns	2h 30m	2h 30m	
@@ -125,10 +125,10 @@ What Have I Learned from Pluralsight? (New to Old)
 * Node.js Testing Strategies	2h 39m	2h 39m	
 100%	Jun 21, 2017	
 ...
-* RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
+> RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
 100%	Jun 21, 2017	
 ...
-* Building Web Applications with Node.js and Express 4.0	4h 43m	4h 43m	
+> Building Web Applications with Node.js and Express 4.0	4h 43m	4h 43m	
 100%	Jun 21, 2017	
 ...
 * Introduction to Node.js	2h 48m	2h 48m	
@@ -143,16 +143,16 @@ What Have I Learned from Pluralsight? (New to Old)
 * Learning To Program - Part 1: Getting Started	3h 12m	3h 12m	
 100%	Jun 20, 2017	
 ...
-* Mastering React Testing with Jest	1h 57m	1h 57m	
+> Mastering React Testing with Jest	1h 57m	1h 57m	
 100%	Jun 19, 2017	
 ...
-* Styling React Components	1h 29m	1h 29m	
+> Styling React Components	1h 29m	1h 29m	
 100%	Jun 19, 2017	
 ...
-* Building Scalable React Apps	3h 48m	3h 48m	
+> Building Scalable React Apps	3h 48m	3h 48m	
 100%	Jun 19, 2017	
 ...
-* Building Applications with React and Redux in ES6	6h 13m	6h 13m	
+> Building Applications with React and Redux in ES6	6h 13m	6h 13m	
 100%	Jun 17, 2017	
 ...
 * AWS Developer: Getting Started	2h 34m	4h 10m	
@@ -164,7 +164,7 @@ What Have I Learned from Pluralsight? (New to Old)
 * AWS Developer: The Big Picture	1h 34m	1h 34m	
 100%	Jun 08, 2017	
 ...
-* Building Applications with React and Flux	5h 8m	5h 8m	
+> Building Applications with React and Flux	5h 8m	5h 8m	
 100%	Jun 06, 2017	
 ...
 * AWS Developer Fundamentals	3m	4h 26m	
@@ -173,12 +173,9 @@ What Have I Learned from Pluralsight? (New to Old)
 * AWS Certified DevOps Engineer: Continuous Delivery and Automation	18m	4h 16m	
 7%	Jun 05, 2017	
 ...
-* React Fundamentals	2h 44m	2h 44m	
+> React Fundamentals	2h 44m	2h 44m	
 100%	Jun 03, 2017	
 ...
-* React.js: Getting Started	1h 44m	1h 44m	
+> React.js: Getting Started	1h 44m	1h 44m	
 100%	Jun 03, 2017	
 ...
-
-
-
