@@ -32,19 +32,19 @@ What Have I Learned from Pluralsight? (New to Old)
 * Implementing DevOps in the Real World	4m	2h 53m	
 3%	Aug 19, 2017	
 ...
+> Advanced Redux	2h 55m	2h 55m	
+100%	Aug 19, 2017	
+...
 * Docker Networking	1h 49m	1h 49m	
 100%	Aug 19, 2017	
 ...
-* Advanced Redux	2h 55m	2h 55m	
-100%	Aug 19, 2017	
-...
-* Advanced React.js	3h 54m	3h 54m	
+> Advanced React.js	3h 54m	3h 54m	
 100%	Aug 15, 2017	
 ...
 * Rapid ES6 Training	4h 16m	4h 16m	
 100%	Aug 13, 2017	
 ...
-* Getting Started with Kubernetes	2h 53m	2h 53m	
+> Getting Started with Kubernetes	2h 53m	2h 53m	
 100%	Aug 12, 2017	
 ...
 * Continuous Delivery Using Docker And Ansible	7h 13m	7h 13m	
@@ -86,7 +86,7 @@ What Have I Learned from Pluralsight? (New to Old)
 * Managing Docker Images	1h 6m	1h 6m	
 100%	Jul 17, 2017	
 ...
-* Continuous Integration and Continuous Delivery: The Big Picture	59m	59m	
+> Continuous Integration and Continuous Delivery: The Big Picture	59m	59m	
 100%	Jul 17, 2017	
 ...
 * Testing JavaScript for Node.js with Mocha	2h 28m	2h 28m	
@@ -101,7 +101,7 @@ What Have I Learned from Pluralsight? (New to Old)
 > Build Cross Platform React Native Apps with Exponent and Redux	3h 22m	3h 22m	
 100%	Jul 13, 2017	
 ...
-> Creating Reusable React Components	6h 20m	6h 21m	
+* Creating Reusable React Components	6h 20m	6h 21m	
 100%	Jul 13, 2017	
 ...
 * Building a Full-Stack App with React and Express	3h 24m	3h 24m	
@@ -125,7 +125,7 @@ What Have I Learned from Pluralsight? (New to Old)
 * Node.js Testing Strategies	2h 39m	2h 39m	
 100%	Jun 21, 2017	
 ...
-> RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
+* RESTful Web Services with Node.js and Express	2h 4m	2h 4m	
 100%	Jun 21, 2017	
 ...
 > Building Web Applications with Node.js and Express 4.0	4h 43m	4h 43m	
@@ -146,10 +146,10 @@ What Have I Learned from Pluralsight? (New to Old)
 > Mastering React Testing with Jest	1h 57m	1h 57m	
 100%	Jun 19, 2017	
 ...
-> Styling React Components	1h 29m	1h 29m	
+* Styling React Components	1h 29m	1h 29m	
 100%	Jun 19, 2017	
 ...
-> Building Scalable React Apps	3h 48m	3h 48m	
+* Building Scalable React Apps	3h 48m	3h 48m	
 100%	Jun 19, 2017	
 ...
 > Building Applications with React and Redux in ES6	6h 13m	6h 13m	
@@ -176,6 +176,6 @@ What Have I Learned from Pluralsight? (New to Old)
 > React Fundamentals	2h 44m	2h 44m	
 100%	Jun 03, 2017	
 ...
-> React.js: Getting Started	1h 44m	1h 44m	
+* React.js: Getting Started	1h 44m	1h 44m	
 100%	Jun 03, 2017	
 ...
