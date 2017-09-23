@@ -1,8 +1,34 @@
 # Pluralsight University
 
-What Have I Learned from Pluralsight? (Newest to Oldest)
+What Have I Learned from Pluralsight? (New to Old)
 
 #### *** COURSE NAME - VIEW TIME - DURATION - COMPLETION% - LAST VIEWED ***
+
+
+* Using Docker with AWS Elastic Beanstalk	4m	57m	
+8%	Sep 01, 2017	
+...
+* Cloud Computing: The Big Picture	1h 4m	1h 4m	
+100%	Sep 01, 2017	
+...
+* Puppet Fundamentals for System Administrators	5h 31m	5h 31m	
+100%	Sep 01, 2017	
+...
+* Getting Started with TeamCity	4h 3m	4h 3m	
+100%	Aug 25, 2017	
+...
+* Getting Started with Docker Swarm Mode	6h 10m	6h 10m	
+100%	Aug 25, 2017	
+...
+* Continuous Integration with psake and TeamCity: Getting Started	2h 32m	2h 32m	
+100%	Aug 21, 2017	
+...
+* Implementing DevOps in the Real World	2h 53m	2h 53m	
+100%	Aug 21, 2017	
+...
+* First Look: Native Docker Clustering	1h 19m	1h 19m	
+100%	Aug 21, 2017	
+...
 * Implementing DevOps in the Real World	4m	2h 53m	
 3%	Aug 19, 2017	
 ...
