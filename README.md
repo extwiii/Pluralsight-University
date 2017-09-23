@@ -2,6 +2,9 @@
 
 What Have I Learned from Pluralsight? (New to Old)
 
+> Recommended Courses
+* Finished courses
+
 #### *** COURSE NAME - VIEW TIME - DURATION - COMPLETION% - LAST VIEWED ***
 
 
